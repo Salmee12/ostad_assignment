@@ -34,7 +34,7 @@ class TrendingCard extends StatelessWidget {
         padding: const EdgeInsets.all(10),
         child: Row(
           children: [
-            // Thumbnail
+
             Container(
               width: 100,
               height: 100,
